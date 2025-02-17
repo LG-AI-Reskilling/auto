@@ -23,4 +23,9 @@
       <url>file:///tmp/auto_project_maven_fake_repo/</url>
     </snapshotRepository>
   </distributionManagement>
+
+  <build>
+    <plugins>
+    </plugins>
+  </build>
 </project>
